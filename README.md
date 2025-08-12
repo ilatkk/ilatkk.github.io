@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>Tony Teaches Tech</title>
 </head>
 <body>
 <h1>GitHub Pages Website Tutorial</h1>
