@@ -1,6 +1,5 @@
 <html lang="en">
 <head>
-    <meta charset="utf-8"/>
 </head>
 <body>
 <h1>A GitHub Page Website thing sussy</h1>
